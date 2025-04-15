@@ -8,9 +8,6 @@
   <a href="https://linkedin.com/in/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://kaggle.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white">
-  </a>
   <a href="mailto:youremail@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white">
   </a>
@@ -34,7 +31,7 @@
 ### **Data & Analytics**
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib">
 </p>
@@ -55,9 +52,22 @@
 
 ---
 
-## 📈 Development Analytics
+## 📊 Development Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&include_all_commits=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true&background=00000000" width="48%">
+</p>
 
-```diff
-+ Code Contributions & Activity Overview
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=00000000&hide_border=true" width="90%">
+</p>
+
+---
+
+## 📚 Learning Journey
+
+```text
+🌱 Currently Mastering   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   70%   React + TypeScript
+📈 Skill Development     ▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱   60%   Power BI Advanced DAX
+🚀 Next Target           ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   25%   AWS Cloud Practitioner
