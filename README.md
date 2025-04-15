@@ -5,11 +5,14 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://www.linkedin.com/in/abishekh-kumar-42ba87190/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:abhisharma.kp26@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.kaggle.com/abishekhkumar" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white">
   </a>
   <a href="https://leetcode.com/yourusername">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black">
