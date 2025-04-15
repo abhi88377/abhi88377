@@ -3,7 +3,11 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/abishekhkumar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abishekh-kumar-42ba87190/)
 [![Email](https://img.shields.io/badge/Email-Abhisharma.kp26@gmail.com-red?style=flat&logo=gmail)](mailto:Abhisharma.kp26@gmail.com)
-![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow%20Me&style=social)
+# Different label and color
+![Followers](https://img.shields.io/github/followers/abhi88377?label=Followers&style=for-the-badge&color=blue)
+
+# With logo 
+![GitHub](https://img.shields.io/badge/Follow-abhi88377-blue?style=flat&logo=github)
 
 **Data Science Enthusiast | Machine Learning Practitioner | Data Analyst**
 
