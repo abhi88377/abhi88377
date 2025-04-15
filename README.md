@@ -1,28 +1,49 @@
-<div align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=20BEFF&center=true&vCenter=true&width=600&lines=Abishekh+Kumar;Mechanical+Engineer→Data+Innovator;Building+Intelligent+Solutions" alt="Header">
-  </a>
-</div>
+# Hi 👋, I'm Abishek Kumar
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://kaggle.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
-  </a>
-  <a href="https://leetcode.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
-  </a>
-</p>
+## A passionate Machine Learning enthusiast from India
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi88377&label=Profile%20views&color=0e75b6&style=flat" alt="abhi88377" /> </p>
 
-## 🛠️ Technical Arsenal
+- 👀 I’m interested in Machine Learning, Deep Learning, AI, and Robotics.
+- 🌱 I’m currently learning Language and Text Processing.
+- 🤝 I’m looking to collaborate on any Computer Vision projects.
+- 📫 How to reach me: [Abishek Kumar](mailto:abishek.kumar@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,react,nodejs,powerbi,postgres,aws,git,github,vscode" alt="Tech Stack">
-</div>
+## Connect with me:
+- [LinkedIn](https://linkedin.com/in/abishek-kumar)
+- [Kaggle](https://kaggle.com/abishek-kumar)
+- [Codeforces](https://codeforces.com/profile/abishek-kumar)
+
+## Languages and Tools:
+
+- ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) [C](https://www.cprogramming.com/)
+- ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) [C++](https://www.w3schools.com/cpp/)
+- ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) [Git](https://git-scm.com/)
+- ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) [Linux](https://www.linux.org/)
+- ![Matlab](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png) [Matlab](https://www.mathworks.com/)
+- ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) [MySQL](https://www.mysql.com/)
+- ![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg) [OpenCV](https://opencv.org/)
+- ![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg) [Pandas](https://pandas.pydata.org/)
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) [Python](https://www.python.org)
+- ![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) [PyTorch](https://pytorch.org/)
+- ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) [Scikit-learn](https://scikit-learn.org/)
+- ![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg) [Seaborn](https://seaborn.pydata.org/)
+- ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) [TensorFlow](https://www.tensorflow.org)
+
+## Featured Project
+
+### [AI Trip Planner](https://github.com/abhi88377/ai-trip-planner)
+An AI-powered trip planner that uses machine learning algorithms to suggest personalized itineraries based on user preferences and historical travel data.
+
+- **Technologies Used**: Python, React, TensorFlow, Pandas, MySQL
+- **Description**: This project suggests the best travel destinations, routes, and accommodations based on user preferences. It uses AI and machine learning to predict the most optimal travel plans.
+- **GitHub Repository**: [AI Trip Planner GitHub](https://github.com/abhi88377/ai-trip-planner)
+- **Demo**: [View Demo](https://your-demo-link.com)
+
+![AI Trip Planner Screenshot](https://your-image-link.com/screenshot.jpg)
+
+## GitHub Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abhi88377&show_icons=true&locale=en&layout=compact)
 
 ---
 
