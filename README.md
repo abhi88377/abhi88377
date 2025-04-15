@@ -33,19 +33,14 @@ Welcome to my GitHub profile! I'm passionate about turning raw data into meaning
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abhi88377&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vision-friendly-dark)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi88377&layout=compact&theme=vision-friendly-dark)](https://github.com/abhi88377)
 
 ## 🏆 Kaggle Achievements
 - Titanic: Machine Learning from Disaster (Top 10%)
 - COVID-19 Data Analysis (Featured Notebook)
 - [View All Competitions](https://www.kaggle.com/abishekhkumar/competitions)
-
-## 📫 Let's Connect
-- LinkedIn: [abishekh-kumar](https://www.linkedin.com/in/abishekh-kumar-42ba87190/)
-- Kaggle: [abishekhkumar](https://www.kaggle.com/abishekhkumar)
-- Email: [Abhisharma.kp26@gmail.com](mailto:Abhisharma.kp26@gmail.com)
 
 ## 🔭 Currently Working On
 - Improving model interpretability techniques
